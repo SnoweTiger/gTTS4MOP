@@ -3,14 +3,14 @@ Script for generating an archive of phrases said by GoogleTTS for Xiaomi robot v
 Скрипт для генерации архива с фразами произнесенными GoogleTTS для робота-пылесоса Xiaomi 1C / MOP STYTJ01ZHM
 
 Requirements/Требования:
-  Windows 7 or newer
-  Python 3.x.x
-  gTTS 
+* Windows 7 or newer
+* Python 3.x.x
+* gTTS 
   
 Script contains and uses/Скрипт содержит и использует:
-  LAME 3.100 from  lame.sourceforge.io
-  Oggenc 2.88 from Segher Boessenkool (segher@xiph.org) from https://www.rarewares.org/ogg-oggenc.php
-  Archive with original soundpack from Xiaomi
+* LAME 3.100 from  lame.sourceforge.io
+* Oggenc 2.88 from Segher Boessenkool (segher@xiph.org) from https://www.rarewares.org/ogg-oggenc.php
+* Archive with original soundpack from Xiaomi
 
 Инструкция по использованию:
 
