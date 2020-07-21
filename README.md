@@ -6,9 +6,10 @@ Script for generating an archive of phrases said by GoogleTTS for Xiaomi robot v
 Requirements / Требования:
 * Windows 7 or newer
 * Python 3.x.x
-* gTTS 
+
   
-Script contains and uses / Скрипт содержит и использует:
+Script uses / Скрипт использует:
+* gTTS from https://github.com/pndurette/gTTS
 * LAME 3.100 from  lame.sourceforge.io
 * Oggenc 2.88 from Segher Boessenkool (segher@xiph.org) from https://www.rarewares.org/ogg-oggenc.php
 * Archive with original soundpack from Xiaomi
