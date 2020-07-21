@@ -2,18 +2,17 @@
 Script for generating an archive of phrases said by GoogleTTS for Xiaomi robot vacuum cleaner 1C/MOP STYTJ01ZHM
 Скрипт для генерации архива с фразами произнесенными GoogleTTS для робота-пылесоса Xiaomi 1C / MOP STYTJ01ZHM
 
-Requirements/Требования:
+Requirements / Требования:
 * Windows 7 or newer
 * Python 3.x.x
 * gTTS 
   
-Script contains and uses/Скрипт содержит и использует:
+Script contains and uses / Скрипт содержит и использует:
 * LAME 3.100 from  lame.sourceforge.io
 * Oggenc 2.88 from Segher Boessenkool (segher@xiph.org) from https://www.rarewares.org/ogg-oggenc.php
 * Archive with original soundpack from Xiaomi
 
 Инструкция по использованию:
-
 Вариант 1 Используем готовый скрипт
 1. Скачиваем все содержимое папки dist
 2. Открываем phrases.json любимым текстовым редактором
@@ -33,3 +32,22 @@ Script contains and uses/Скрипт содержит и использует:
 6. Заменяем main.bundle
 7. Заходим в MiHome от vevs и выбираем озвучку gTTS4MOP
 
+Instructions for use:
+Option 1 Use a ready script
+1. Download all the contents of the dist folder
+2. Open phrases.json with your favorite text editor
+3. Change the phrases that interest us. (the rest can be deleted)
+4. Run gTTS4MOP.exe
+5. We go from the smartphone to the IP address specified by the script.
+6. Replace main.bundle
+7. Go to MiHome from Vevs and select the voice acting gTTS4MOP
+
+Option 2 Using a python script
+1. Download all contents of the scr folder
+2.1. Install dependencies pip install -r requirements.txt
+2.2. Open phrases.json with your favorite text editor
+3. Change the phrases that interest us. (the rest can be deleted)
+4. Run the py script gTTS4MOP.py
+5. We go from the smartphone to the IP address specified by the script.
+6. Replace main.bundle
+7. Go to MiHome from vevs and select the voice acting gTTS4MOP
