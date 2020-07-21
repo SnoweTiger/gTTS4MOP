@@ -13,7 +13,8 @@ Script contains and uses / Скрипт содержит и использует
 * Archive with original soundpack from Xiaomi
 
 Инструкция по использованию:
-  Вариант 1 Используем готовый скрипт
+
+Вариант 1 Используем готовый скрипт
 1. Скачиваем все содержимое папки dist
 2. Открываем phrases.json любимым текстовым редактором
 3. Изменяем интересующие нас фразы. (остальные можно удалить)
@@ -33,6 +34,7 @@ Script contains and uses / Скрипт содержит и использует
 8. Заходим в MiHome от vevs и выбираем озвучку gTTS4MOP
 
 Instructions for use:
+
 Option 1 Use a ready script
 1. Download all the contents of the dist folder
 2. Open phrases.json with your favorite text editor
