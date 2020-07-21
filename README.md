@@ -13,7 +13,7 @@ Script contains and uses / Скрипт содержит и использует
 * Archive with original soundpack from Xiaomi
 
 Инструкция по использованию:
-Вариант 1 Используем готовый скрипт
+  Вариант 1 Используем готовый скрипт
 1. Скачиваем все содержимое папки dist
 2. Открываем phrases.json любимым текстовым редактором
 3. Изменяем интересующие нас фразы. (остальные можно удалить)
@@ -24,13 +24,13 @@ Script contains and uses / Скрипт содержит и использует
 
 Вариант 2 Используем скрипт на питоне
 1. Скачиваем все содержимое папки scr
-2.1. Устанавливаем зависимости pip install -r requirements.txt
-2.2. Открываем phrases.json любимым текстовым редактором
-3. Изменяем интересующие нас фразы. (остальные можно удалить)
-4. Запускаем скрипт py gTTS4MOP.py
-5. Заходим со смартфона на указангый скриптом IP адрес. 
-6. Заменяем main.bundle
-7. Заходим в MiHome от vevs и выбираем озвучку gTTS4MOP
+2. Устанавливаем зависимости pip install -r requirements.txt
+3. Открываем phrases.json любимым текстовым редактором
+4. Изменяем интересующие нас фразы. (остальные можно удалить)
+5. Запускаем скрипт py gTTS4MOP.py
+6. Заходим со смартфона на указангый скриптом IP адрес. 
+7. Заменяем main.bundle
+8. Заходим в MiHome от vevs и выбираем озвучку gTTS4MOP
 
 Instructions for use:
 Option 1 Use a ready script
@@ -44,10 +44,10 @@ Option 1 Use a ready script
 
 Option 2 Using a python script
 1. Download all contents of the scr folder
-2.1. Install dependencies pip install -r requirements.txt
-2.2. Open phrases.json with your favorite text editor
-3. Change the phrases that interest us. (the rest can be deleted)
-4. Run the py script gTTS4MOP.py
-5. We go from the smartphone to the IP address specified by the script.
-6. Replace main.bundle
-7. Go to MiHome from vevs and select the voice acting gTTS4MOP
+2. Install dependencies pip install -r requirements.txt
+3. Open phrases.json with your favorite text editor
+4. Change the phrases that interest us. (the rest can be deleted)
+5. Run the py script gTTS4MOP.py
+6. We go from the smartphone to the IP address specified by the script.
+7. Replace main.bundle
+8. Go to MiHome from vevs and select the voice acting gTTS4MOP
